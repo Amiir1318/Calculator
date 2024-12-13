@@ -8,7 +8,6 @@ en2 = ""
 win.geometry("250x400")
 win.resizable(0,0)
 win.title("Calculator")
-win.iconmask("black")
 ###############amaliat
 def min(x):
     global position
