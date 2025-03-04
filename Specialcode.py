@@ -1,6 +1,7 @@
 from tkinter import *
 win = Tk()
 #============VAR
+print('##############')
 position = False
 en1 = ""
 en2 = ""
